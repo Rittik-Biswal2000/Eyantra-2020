@@ -20,3 +20,7 @@ The packages to be delivered have their own priorities. Packages having a higher
 <br>
 Teams will learn Robotic Manipulation, Robotic Perception, ROS, IoT, Google App Scripting, Python and Javascript. The team which sorts high-priority packages based on their destination in the least time with minimum penalties wins.<br>
 <br>
+
+
+# Task 1: https://www.youtube.com/watch?v=iwxeWOIJv2Y&feature=youtu.be
+# Task 2: https://www.youtube.com/watch?v=s5_FqIreO1w
