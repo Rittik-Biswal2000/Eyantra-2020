@@ -22,5 +22,5 @@ Teams will learn Robotic Manipulation, Robotic Perception, ROS, IoT, Google App 
 <br>
 
 
-# Task 1: https://www.youtube.com/watch?v=iwxeWOIJv2Y&feature=youtu.be
-# Task 2: https://www.youtube.com/watch?v=s5_FqIreO1w
+## Task 1: https://www.youtube.com/watch?v=iwxeWOIJv2Y&feature=youtu.be
+## Task 2: https://www.youtube.com/watch?v=s5_FqIreO1w
